@@ -25,7 +25,7 @@ This is a web application designed to identify fraudulent credit card transactio
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python with Flask/Django
+- **Backend**: Python with Flask
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn, Plotly
 
